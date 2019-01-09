@@ -19,6 +19,9 @@ Awesome list of tools tricks for making a life with linux better
 + Editor: *spacemacs*
 [project](https://github.com/syl20bnr/spacemacs)
 
++ Messages: *hangups*
+[project](https://github.com/tdryer/hangups)
+
 + Vector graphic drawing: **inkscape**
 + Music player: *cmus* 
 [project](https://github.com/cmus/cmus)
