@@ -1,4 +1,6 @@
 
+<img src="./img/tmux.png" alt="drawing" width="512"/>
+
 Session => Window => Panel 
 
 Within a session, **tmux** shortcuts involve a prefix which is by default `Ctr + b`.
