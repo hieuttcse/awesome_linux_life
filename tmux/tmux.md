@@ -1,5 +1,5 @@
 
-Session => Panel => Window
+Session => Window => Panel 
 
 Within a session, **tmux** shortcuts involve a prefix which is by default `Ctr + b`.
 i.e. `prefix + $` (for renaming a session) means `Ctr + b` and then `$`
@@ -28,27 +28,6 @@ detach the currently attached session
 `tmux rename-session [-t target-session] session_name (prefix + $)` 
 
 rename session
-## Pane
-
-`tmux split-window (prefix + ")`
-
-splits the window into two vertical panes
-
-`tmux split-window -h (prefix + %)`
-
-splits the window into two horizontal panes
-
-`tmux swap-pane -[UDLR] (prefix + { or })`
-
-swaps pane with another in the specified direction
-
-`tmux select-pane -[UDLR]`
-
-selects the next pane in the specified direction
-
-`tmux select-pane -t :.+`
-
-selects the next pane in numerical order
 
 ## Windows
 `tmux new-window (prefix + c)`
@@ -62,6 +41,28 @@ move to the window based on index
 `tmux rename-window (prefix + ,)`
 
 rename the current window
+
+## Pane
+
+`tmux split-window (prefix + ")`
+
+splits the window into two vertical panes
+
+`tmux split-window -h (prefix + %)`
+
+splits the window into two horizontal panes
+
+`tmux swap-pane -[UD] (prefix + { or })`
+
+swaps pane with another in the specified direction
+
+`tmux select-pane -[UDLR] (prefix + up or down or left or right )`
+
+selects the next pane in the specified direction
+
+`tmux select-pane -t :.+ (prefix + o)`
+
+selects the next pane in numerical order
 
 ## Misc commands
 `tmux list-keys`
