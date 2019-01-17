@@ -16,6 +16,8 @@ Awesome list of tools tricks for making a life with linux better
 + Ebook reader: *bookworm*
 [project](https://github.com/babluboy/bookworm) 
 
++ Desktop photo: *shutter*
+
 + Editor: *spacemacs*
 [project](https://github.com/syl20bnr/spacemacs)
 
