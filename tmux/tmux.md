@@ -1,5 +1,5 @@
 
-<img src="./img/tmux.png" alt="drawing" width="512"/>
+ <div style="text-align:center"><img src="./img/tmux.png" alt="tmux" width="512"/></div>
 
 Session => Window => Panel 
 
@@ -82,3 +82,8 @@ lists out every session, window, pane, its pid, etc.
 `tmux source-file ~/.tmux.conf`
 
 reloads the current tmux configuration (based on a default tmux config)
+
+## References:
++ https://hackernoon.com/a-gentle-introduction-to-tmux-8d784c404340
++ https://www.hamvocke.com/blog/a-quick-and-easy-guide-to-tmux/
++ https://robots.thoughtbot.com/a-tmux-crash-course

@@ -1,0 +1,5 @@
+* EIN:
+** plot won't show as inline:
+   The variable ~ein:output_area_inlined_images~ determines this behavior.
+   - ~A-x: customize-group RET~
+   - search for ~Ein:Output Area Inlined Images~ and change from ~nil~ to ~non-nil~

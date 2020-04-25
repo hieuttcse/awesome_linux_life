@@ -22,11 +22,20 @@ Awesome list of tools tricks for making a life with linux better
 + Messages: *hangups*
 [project](https://github.com/tdryer/hangups)
 
++ Screenshot: *shutter*
+[project](http://shutter-project.org/)
+
 + Vector graphic drawing: **inkscape**
+
 + Music player: *cmus* 
+[guide](http://www.tuxarena.com/static/cmus_guide.php), 
 [project](https://github.com/cmus/cmus)
 , man cmus-tutorial
-+ Terminal: *terminator* [website](https://code.launchpad.net/terminator)  
+
++ Terminal: *terminator* [website](https://code.launchpad.net/terminator),
+*tmux* [tutorial](./tmux/tmux.md), [project](https://github.com/tmux/tmux)
+
++ youtube music player: mpsyt [project](https://github.com/mps-youtube/mps-youtube)  
 + web browser: **chrome**
   + viminum extension: [project](https://github.com/philc/vimium)
   + window applications 
@@ -34,6 +43,7 @@ Awesome list of tools tricks for making a life with linux better
 + Notes: Evernote
 : client **tusk** [project](https://github.com/klaussinani/tusk)
 + Latex: **spacemacs**, **kile** ([website](https://kile.sourceforge.io/))
+
 # Spacemacs
 + latex: okular as external viewer (code navigator)
 + magit
