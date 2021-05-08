@@ -46,6 +46,10 @@ Awesome list of tools tricks for making a life with linux better
 : client **tusk** [project](https://github.com/klaussinani/tusk)
 + Latex: **spacemacs**, **kile** ([website](https://kile.sourceforge.io/))
 
+# Terminal-based tools
++ Disk analysis: ncdu
+  + [Official website](https://dev.yorhel.nl/ncdu)
+
 # Spacemacs
 + latex: okular as external viewer (code navigator)
 + magit
